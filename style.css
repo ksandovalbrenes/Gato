@@ -1,0 +1,22 @@
+.html {
+    box-sizing: border-box;
+}
+
+.container {
+
+
+    padding: 5px;
+    display: inline-grid;
+    grid-template-columns: 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw 2vw;
+    background-color: rgb(28, 28, 29);
+
+}
+
+.pixel {
+    box-sizing: border-box;
+    background-color: #f0eded;
+    text-align: center;
+    width: 1fr;
+    height: 2vw;
+    font-size: 2px;
+}
